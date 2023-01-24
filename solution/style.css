@@ -19,17 +19,18 @@ main {
   background-color: hotpink;
 }
 
-/* Multiple selectors example targetting the headers in main */
-main h1 {
+/* Target all h1 on the page */
+h1 {
   color: darkmagenta;
 }
 
-/* Multiple selectors example targetting some content in main */
-main p {
+/* Target all p elements on the page */
+p {
   color: blueviolet;
 }
 
-main ul li {
+/* Target all li elements on the page */
+li {
   color: red;
 }
 
