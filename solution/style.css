@@ -20,19 +20,17 @@ main {
 }
 
 /* Multiple selectors example targetting the headers in main */
-main h1,
-main h2,
-main h3,
-main h4,
-main h5,
-main h6 {
+main h1 {
   color: darkmagenta;
 }
 
 /* Multiple selectors example targetting some content in main */
-main p,
+main p {
+  color: blueviolet;
+}
+
 main ul li {
-  color: beige;
+  color: red;
 }
 
 /* Target the header - set the background colour and text colour */

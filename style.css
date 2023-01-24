@@ -7,7 +7,7 @@ html {
 
 /* Set the background colour on the body element */
 body {
-  /* Add a background colour here */
+  background-color: yellowgreen;
 }
 
 /* Target the header - set the background colour and text colour */
@@ -17,9 +17,9 @@ header {
 
 /* Target the main content area - set the background colour */
 
-/* Target all of the headers h1, h2, h3 in main */
+/* Target the header (h1) in main */
 
-/* Target the paragraphs in main */
+/* Target the paragraphs (p) in main */
 
 /* Target the list items (ul li) in main */
 
